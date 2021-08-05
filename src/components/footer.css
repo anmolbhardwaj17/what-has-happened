@@ -1,0 +1,10 @@
+.footer{
+    margin:16px;
+    text-align: center;
+}
+.footer p{
+    font-family: "Poppins";
+    font-size: 1em;
+    font-weight:600;
+    color:#808080;
+}
